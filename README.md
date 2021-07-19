@@ -1,2 +1,6 @@
-# TD_Bank_Promotional_HTML_Email_Responsive
-Recreated TD BANK Simple Savings email that informs customers of savings product. Used HTML & CSS.
+Re-creation of TD Bank Promotional HTML Email 
+Recreated TD BANK Simple Savings promotioanl email, informing customers of savings account. 
+
+Tools:
+ HTML
+ CSS
